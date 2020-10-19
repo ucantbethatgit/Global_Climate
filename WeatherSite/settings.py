@@ -29,7 +29,8 @@ SECRET_KEY = '!e!9o*ct=25^px%m57_zdwsv!9kpz9p7rtp#)90!h@$@!ufws+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['weather-manoj.herokuapp.com', '127.0.0.1:8000']
+#ALLOWED_HOSTS = []
 
 
 # Application definition
